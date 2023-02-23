@@ -28,7 +28,6 @@ img {
 .block1 {
 	width: 908px;
 	height: 715px;	
-/*	animation: bounceInLeft 1s ease-in-out 1;  */
 }
 
 .block2 {
@@ -84,14 +83,12 @@ img {
 	height: 854px;
 	background-image: 
 	  			linear-gradient(to top, rgba(49, 136, 155 ,0.9), rgba(79, 165, 184 ,0.9)),
-	  			url("img/our-services.jpg");
-/*	animation: bounceInLeft 1s ease-in-out 1;    			*/
+	  			url("img/our-services.jpg");  		
 }
 
 .block3, .block6, .block7, .block8 {
 	color: #ffffff;
 }
-
 
 .article-block3 {
 	margin-bottom: 70px;
@@ -115,9 +112,9 @@ img {
 	height: 427px;
 	background-image: 
 	  			linear-gradient(to top, rgba(238, 227, 195 ,0.9), rgba(239, 226, 194 ,0.9)),
-	  			url("img/3.jpg");
-/*	animation: bounceInRight 1s ease-in-out 1;  			*/
+	  			url("img/3.jpg");			
 }
+
 .head-indent5 {
 	color: #262f32;
 }
@@ -147,8 +144,7 @@ img {
 	height: 427px;	
 	background-image: 
 	  			linear-gradient(to top, rgba(16, 27, 35 ,0.7), rgba(28, 40, 50 ,0.8)),
-	  			url("img/4.1.jpg");
-	animation: bounceInRight 1s ease-in-out 1;  			
+	  			url("img/4.1.jpg");			
 }
 
 
